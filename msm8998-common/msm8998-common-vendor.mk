@@ -1156,7 +1156,6 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     embms \
     ims \
-    imssettings \
     TimeService \
     WfdCommon \
     vendor.qti.hardware.alarm-V1.0-java \
